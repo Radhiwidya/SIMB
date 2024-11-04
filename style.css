@@ -13,6 +13,9 @@ button{
     margin-top: 0;
     margin-bottom: 0;
 }
+input{
+    width: 100%;
+}
 .nav-link{
     color: rgb(255, 255, 255);
 }
@@ -54,11 +57,56 @@ button{
     padding-top: 20px;
     padding-bottom: 5px;
 }
+.login-box{
+    display: flex;
+    justify-content: center;
+}
+.login{
+    background-color: rgba(255, 255, 255, 0.7);
+    margin: 100px;
+    padding: 30px 30px 70px 30px;
+    border-radius: 20px;
+    border: solid rgba(0, 0, 0, 0.5) 3px;
+    width: 320px;
+    animation: shadow 3s infinite alternate;
+}
+.btn-login{
+    width: 100%;
+    margin: 0px;
+}
+.form-login{
+    border-radius: 5px;
+    height: 35px;
+    border: solid grey 1px;
+}
+
+@keyframes shadow {
+    0% {
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+    }
+    100% {
+    box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.3);
+    }
+}
+
 @media (max-width: 768px) {
     button{
         justify-content: center;
         width: 70px;
         margin-bottom: 10px;
         margin-left: 0;
+    }
+    .login-box{
+        display: flex;
+        justify-content: center;
+    }
+    .login{
+        background-color: rgba(255, 255, 255, 0.7);
+        margin: 100px 10px 10px 10px;
+        padding: 30px 30px 70px 30px;
+        border-radius: 20px;
+        border: solid rgba(0, 0, 0, 0.5) 3px;
+        width: 320px;
+        animation: shadow 3s infinite alternate;
     }
 }
