@@ -1,0 +1,663 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 1,
+            "pages": 1,
+            "per_page": 1,
+            "count": 1,
+            "total": 1
+        },
+        {
+            "change_log": [],
+            "judul_tabel": "Jumlah Korban yang Diakibatkan Bencana Alam Menurut Provinsi, 2023",
+            "judul_tabel_en": "Number of Victims Due to Natural Disaster by Province, 2023",
+            "lingkup": "Provinsi&lt;br&gt;&lt;i&gt;Province&lt;\/i&gt;",
+            "lingkup_id": "Provinsi",
+            "lingkup_en": "Province",
+            "tahun_data": 2023,
+            "wilayah": "Indonesia",
+            "penanggung_jawab": "Badan Nasional Penanggulangan Bencana",
+            "show_satuan": false,
+            "id_subject": "V0tBRm02cXlIVkdxUm9XTkdvbHJPUT09",
+            "bab": "Geografi dan Iklim",
+            "bab_en": "Geography and Climate",
+            "subject": "Lingkungan",
+            "subject_en": "Environment",
+            "mms_id": 539,
+            "mms_subject": "Lingkungan",
+            "keterangan_data": {
+                "...": "Data tidak tersedia",
+                "\u2013": "Tidak ada atau nol",
+                "NA": "Data tidak dapat ditampilkan",
+                "e": "Angka estimasi",
+                "r": "Angka diperbaiki",
+                "~0": "Data dapat diabaikan",
+                "*": "Angka sementara",
+                "**": "Angka sangat sementara",
+                "***": "Angka sangat sangat sementara"
+            },
+            "kolom": {
+                "mktyqvj96l": {
+                    "nama_variabel": "Jumlah Korban Bencana Gempa Bumi - Meninggal dan Hilang",
+                    "nama_variabel_en": "Number of Victim Due to Earthquake - Deaths and Missing",
+                    "tipe": "Numerik",
+                    "angka_desimal_dibelakang_koma": 0,
+                    "metadata_indikator": "Jumlah Korban Meninggal",
+                    "metadata_konsep_definisi": "&lt;p&gt;Definisi Berdasarkan Peraturan Kepala BNPB Nomor 8 Tahun 2011 tentang Standardisasi Data Kebencanaan:&lt;br\/&gt;Korban meninggal adalah orang yang dilaporkan tewas atau meninggal dunia akibat bencana. &lt;br\/&gt;&lt;br\/&gt;Catatan:&lt;br\/&gt;&lt;ul&gt;&lt;li&gt;Korban meninggal yang dicatat merupakan jumlah korban meninggal pada akhir masa tanggap darurat.&lt;\/li&gt;&lt;li&gt;Kematian atau kehilangan pada hewan ternak tidak dicatat.&lt;\/li&gt;&lt;\/ul&gt;&lt;\/p&gt;",
+                    "metadata_kegunaan": null,
+                    "metadata_keterangan_tambahan": null,
+                    "metadata_interpretasi": null,
+                    "metadata_rumusan": [],
+                    "metadata_rumus_html": null,
+                    "metadata_dihasilkan_oleh": [],
+                    "tanggal_cut_off": null
+                },
+                "f4m1uocsn3": {
+                    "nama_variabel": "Jumlah Korban Bencana Gempa Bumi - Luka-luka",
+                    "nama_variabel_en": "Number of Victim Due to Earthquake - Casualty",
+                    "tipe": "Numerik",
+                    "angka_desimal_dibelakang_koma": 0,
+                    "metadata_indikator": "Jumlah Korban Luka\/Sakit",
+                    "metadata_konsep_definisi": "&lt;p&gt;Definisi Berdasarkan Peraturan Kepala BNPB Nomor 8 Tahun 2011 tentang Standardisasi Data Kebencanaan:&lt;br\/&gt;Korban luka\/sakit adalah orang yang mengalami luka-luka atau sakit, dalam keadaan luka ringan, maupun luka parah\/berat, baik yang berobat jalan maupun rawat inap.&lt;br\/&gt;&lt;br\/&gt;Catatan:&lt;br\/&gt;&lt;ul&gt;&lt;li&gt;Korban meninggal yang dicatat merupakan jumlah korban meninggal pada akhir masa tanggap darurat.&lt;\/li&gt;&lt;li&gt;Kematian atau kehilangan pada hewan ternak tidak dicatat.&lt;\/li&gt;&lt;\/ul&gt;&lt;\/p&gt;",
+                    "metadata_kegunaan": null,
+                    "metadata_keterangan_tambahan": null,
+                    "metadata_interpretasi": null,
+                    "metadata_rumusan": [],
+                    "metadata_rumus_html": null,
+                    "metadata_dihasilkan_oleh": [],
+                    "tanggal_cut_off": null
+                },
+                "j8x0aw2c79": {
+                    "nama_variabel": "Jumlah Korban Bencana Gempa Bumi - Terdampak dan Mengungsi",
+                    "nama_variabel_en": "Number of Victim Due to Earthquake - Affected and Evacuated",
+                    "tipe": "Numerik",
+                    "angka_desimal_dibelakang_koma": 0,
+                    "metadata_indikator": "Jumlah Korban Terdampak\/Mengungsi",
+                    "metadata_konsep_definisi": "&lt;p&gt;Definisi Berdasarkan Peraturan Kepala BNPB Nomor 8 Tahun 2011 tentang Standardisasi Data Kebencanaan:&lt;\/p&gt;&lt;p&gt;&lt;b&gt;Penderita\/terdampak&lt;\/b&gt;\u00a0 adalah orang atau sekelompok orang yang menderita akibat\u00a0 dampak\u00a0 buruk\u00a0 bencana,\u00a0 seperti\u00a0 kerusakan\u00a0 dan\u00a0 atau\u00a0 kerugian\u00a0 harta benda, namun masih dapat menempati tempat tinggalnya.&lt;\/p&gt;&lt;p&gt;&lt;b&gt;Pengungsi&lt;\/b&gt; adalah orang\/sekelompok orang yang terpaksa atau dipaksa keluar dari tempat tinggalnya ketempat yang lebih aman dalam upaya menyelamatkan diri\/jiwa untuk jangka waktu yang belum pasti sebagai akibat dampak buruk bencana.&lt;br&gt;&lt;br&gt;Catatan:&lt;br&gt;&lt;\/p&gt;&lt;ul&gt;&lt;li&gt;Korban meninggal yang dicatat merupakan jumlah korban meninggal pada akhir masa tanggap darurat.&lt;\/li&gt;&lt;li&gt;Kematian atau kehilangan pada hewan ternak tidak dicatat.&lt;\/li&gt;&lt;\/ul&gt;&lt;p&gt;&lt;\/p&gt;\r\n",
+                    "metadata_kegunaan": null,
+                    "metadata_keterangan_tambahan": null,
+                    "metadata_interpretasi": null,
+                    "metadata_rumusan": [],
+                    "metadata_rumus_html": null,
+                    "metadata_dihasilkan_oleh": [],
+                    "tanggal_cut_off": null
+                },
+                "j0amtw5gcg": {
+                    "nama_variabel": "Jumlah Korban Bencana Tsunami - Meninggal dan Hilang",
+                    "nama_variabel_en": "Number of Victim Due to Tsunami - Deaths and Missing",
+                    "tipe": "Numerik",
+                    "angka_desimal_dibelakang_koma": 0,
+                    "metadata_indikator": "Jumlah Korban Meninggal",
+                    "metadata_konsep_definisi": "&lt;p&gt;Definisi Berdasarkan Peraturan Kepala BNPB Nomor 8 Tahun 2011 tentang Standardisasi Data Kebencanaan:&lt;br\/&gt;Korban meninggal adalah orang yang dilaporkan tewas atau meninggal dunia akibat bencana. &lt;br\/&gt;&lt;br\/&gt;Catatan:&lt;br\/&gt;&lt;ul&gt;&lt;li&gt;Korban meninggal yang dicatat merupakan jumlah korban meninggal pada akhir masa tanggap darurat.&lt;\/li&gt;&lt;li&gt;Kematian atau kehilangan pada hewan ternak tidak dicatat.&lt;\/li&gt;&lt;\/ul&gt;&lt;\/p&gt;",
+                    "metadata_kegunaan": null,
+                    "metadata_keterangan_tambahan": null,
+                    "metadata_interpretasi": null,
+                    "metadata_rumusan": [],
+                    "metadata_rumus_html": null,
+                    "metadata_dihasilkan_oleh": [],
+                    "tanggal_cut_off": null
+                },
+                "lsfnmdtlvu": {
+                    "nama_variabel": "Jumlah Korban Bencana Tsunami - Luka-luka",
+                    "nama_variabel_en": "Number of Victim Due to Tsunami - Casualty",
+                    "tipe": "Numerik",
+                    "angka_desimal_dibelakang_koma": 0,
+                    "metadata_indikator": "Jumlah Korban Luka\/Sakit",
+                    "metadata_konsep_definisi": "&lt;p&gt;Definisi Berdasarkan Peraturan Kepala BNPB Nomor 8 Tahun 2011 tentang Standardisasi Data Kebencanaan:&lt;br\/&gt;Korban luka\/sakit adalah orang yang mengalami luka-luka atau sakit, dalam keadaan luka ringan, maupun luka parah\/berat, baik yang berobat jalan maupun rawat inap.&lt;br\/&gt;&lt;br\/&gt;Catatan:&lt;br\/&gt;&lt;ul&gt;&lt;li&gt;Korban meninggal yang dicatat merupakan jumlah korban meninggal pada akhir masa tanggap darurat.&lt;\/li&gt;&lt;li&gt;Kematian atau kehilangan pada hewan ternak tidak dicatat.&lt;\/li&gt;&lt;\/ul&gt;&lt;\/p&gt;",
+                    "metadata_kegunaan": null,
+                    "metadata_keterangan_tambahan": null,
+                    "metadata_interpretasi": null,
+                    "metadata_rumusan": [],
+                    "metadata_rumus_html": null,
+                    "metadata_dihasilkan_oleh": [],
+                    "tanggal_cut_off": null
+                },
+                "ei54uhhlbr": {
+                    "nama_variabel": "Jumlah Korban Bencana Tsunami - Terdampak dan Mengungsi",
+                    "nama_variabel_en": "Number of Victim Due to Tsunami - Affected and Evacuated",
+                    "tipe": "Numerik",
+                    "angka_desimal_dibelakang_koma": 0,
+                    "metadata_indikator": "Jumlah Korban Terdampak\/Mengungsi",
+                    "metadata_konsep_definisi": "&lt;p&gt;Definisi Berdasarkan Peraturan Kepala BNPB Nomor 8 Tahun 2011 tentang Standardisasi Data Kebencanaan:&lt;\/p&gt;&lt;p&gt;&lt;b&gt;Penderita\/terdampak&lt;\/b&gt;\u00a0 adalah orang atau sekelompok orang yang menderita akibat\u00a0 dampak\u00a0 buruk\u00a0 bencana,\u00a0 seperti\u00a0 kerusakan\u00a0 dan\u00a0 atau\u00a0 kerugian\u00a0 harta benda, namun masih dapat menempati tempat tinggalnya.&lt;\/p&gt;&lt;p&gt;&lt;b&gt;Pengungsi&lt;\/b&gt; adalah orang\/sekelompok orang yang terpaksa atau dipaksa keluar dari tempat tinggalnya ketempat yang lebih aman dalam upaya menyelamatkan diri\/jiwa untuk jangka waktu yang belum pasti sebagai akibat dampak buruk bencana.&lt;br&gt;&lt;br&gt;Catatan:&lt;br&gt;&lt;\/p&gt;&lt;ul&gt;&lt;li&gt;Korban meninggal yang dicatat merupakan jumlah korban meninggal pada akhir masa tanggap darurat.&lt;\/li&gt;&lt;li&gt;Kematian atau kehilangan pada hewan ternak tidak dicatat.&lt;\/li&gt;&lt;\/ul&gt;&lt;p&gt;&lt;\/p&gt;\r\n",
+                    "metadata_kegunaan": null,
+                    "metadata_keterangan_tambahan": null,
+                    "metadata_interpretasi": null,
+                    "metadata_rumusan": [],
+                    "metadata_rumus_html": null,
+                    "metadata_dihasilkan_oleh": [],
+                    "tanggal_cut_off": null
+                },
+                "4gfrr2gots": {
+                    "nama_variabel": "Jumlah Korban Bencana Gempa Bumi dan Tsunami - Meninggal dan Hilang",
+                    "nama_variabel_en": "Number of Victim Due to Earthquake dan Tsunami - Deaths and Missing",
+                    "tipe": "Numerik",
+                    "angka_desimal_dibelakang_koma": 0,
+                    "metadata_indikator": "Jumlah Korban Meninggal",
+                    "metadata_konsep_definisi": "&lt;p&gt;Definisi Berdasarkan Peraturan Kepala BNPB Nomor 8 Tahun 2011 tentang Standardisasi Data Kebencanaan:&lt;br\/&gt;Korban meninggal adalah orang yang dilaporkan tewas atau meninggal dunia akibat bencana. &lt;br\/&gt;&lt;br\/&gt;Catatan:&lt;br\/&gt;&lt;ul&gt;&lt;li&gt;Korban meninggal yang dicatat merupakan jumlah korban meninggal pada akhir masa tanggap darurat.&lt;\/li&gt;&lt;li&gt;Kematian atau kehilangan pada hewan ternak tidak dicatat.&lt;\/li&gt;&lt;\/ul&gt;&lt;\/p&gt;",
+                    "metadata_kegunaan": null,
+                    "metadata_keterangan_tambahan": null,
+                    "metadata_interpretasi": null,
+                    "metadata_rumusan": [],
+                    "metadata_rumus_html": null,
+                    "metadata_dihasilkan_oleh": [],
+                    "tanggal_cut_off": null
+                },
+                "hcdulyjwt9": {
+                    "nama_variabel": "Jumlah Korban Bencana Gempa Bumi dan Tsunami - Luka-luka",
+                    "nama_variabel_en": "Number of Victim Due to Earthquake dan Tsunami - Casualty",
+                    "tipe": "Numerik",
+                    "angka_desimal_dibelakang_koma": 0,
+                    "metadata_indikator": "Jumlah Korban Luka\/Sakit",
+                    "metadata_konsep_definisi": "&lt;p&gt;Definisi Berdasarkan Peraturan Kepala BNPB Nomor 8 Tahun 2011 tentang Standardisasi Data Kebencanaan:&lt;br\/&gt;Korban luka\/sakit adalah orang yang mengalami luka-luka atau sakit, dalam keadaan luka ringan, maupun luka parah\/berat, baik yang berobat jalan maupun rawat inap.&lt;br\/&gt;&lt;br\/&gt;Catatan:&lt;br\/&gt;&lt;ul&gt;&lt;li&gt;Korban meninggal yang dicatat merupakan jumlah korban meninggal pada akhir masa tanggap darurat.&lt;\/li&gt;&lt;li&gt;Kematian atau kehilangan pada hewan ternak tidak dicatat.&lt;\/li&gt;&lt;\/ul&gt;&lt;\/p&gt;",
+                    "metadata_kegunaan": null,
+                    "metadata_keterangan_tambahan": null,
+                    "metadata_interpretasi": null,
+                    "metadata_rumusan": [],
+                    "metadata_rumus_html": null,
+                    "metadata_dihasilkan_oleh": [],
+                    "tanggal_cut_off": null
+                },
+                "qyseivmjow": {
+                    "nama_variabel": "Jumlah Korban Bencana Gempa Bumi dan Tsunami - Terdampak dan Mengungsi",
+                    "nama_variabel_en": "Number of Victim Due to Earthquake dan Tsunami - Affected and Evacuated",
+                    "tipe": "Numerik",
+                    "angka_desimal_dibelakang_koma": 0,
+                    "metadata_indikator": "Jumlah Korban Terdampak\/Mengungsi",
+                    "metadata_konsep_definisi": "&lt;p&gt;Definisi Berdasarkan Peraturan Kepala BNPB Nomor 8 Tahun 2011 tentang Standardisasi Data Kebencanaan:&lt;\/p&gt;&lt;p&gt;&lt;b&gt;Penderita\/terdampak&lt;\/b&gt;\u00a0 adalah orang atau sekelompok orang yang menderita akibat\u00a0 dampak\u00a0 buruk\u00a0 bencana,\u00a0 seperti\u00a0 kerusakan\u00a0 dan\u00a0 atau\u00a0 kerugian\u00a0 harta benda, namun masih dapat menempati tempat tinggalnya.&lt;\/p&gt;&lt;p&gt;&lt;b&gt;Pengungsi&lt;\/b&gt; adalah orang\/sekelompok orang yang terpaksa atau dipaksa keluar dari tempat tinggalnya ketempat yang lebih aman dalam upaya menyelamatkan diri\/jiwa untuk jangka waktu yang belum pasti sebagai akibat dampak buruk bencana.&lt;br&gt;&lt;br&gt;Catatan:&lt;br&gt;&lt;\/p&gt;&lt;ul&gt;&lt;li&gt;Korban meninggal yang dicatat merupakan jumlah korban meninggal pada akhir masa tanggap darurat.&lt;\/li&gt;&lt;li&gt;Kematian atau kehilangan pada hewan ternak tidak dicatat.&lt;\/li&gt;&lt;\/ul&gt;&lt;p&gt;&lt;\/p&gt;\r\n",
+                    "metadata_kegunaan": null,
+                    "metadata_keterangan_tambahan": null,
+                    "metadata_interpretasi": null,
+                    "metadata_rumusan": [],
+                    "metadata_rumus_html": null,
+                    "metadata_dihasilkan_oleh": [],
+                    "tanggal_cut_off": null
+                },
+                "6l7v4ekdjy": {
+                    "nama_variabel": "Jumlah Korban Bencana Letusan Gunung Api - Meninggal dan Hilang",
+                    "nama_variabel_en": "Number of Victim Due to Volcanic Eruption - Deaths and Missing",
+                    "tipe": "Numerik",
+                    "angka_desimal_dibelakang_koma": 0,
+                    "metadata_indikator": "Jumlah Korban Meninggal",
+                    "metadata_konsep_definisi": "&lt;p&gt;Definisi Berdasarkan Peraturan Kepala BNPB Nomor 8 Tahun 2011 tentang Standardisasi Data Kebencanaan:&lt;br\/&gt;Korban meninggal adalah orang yang dilaporkan tewas atau meninggal dunia akibat bencana. &lt;br\/&gt;&lt;br\/&gt;Catatan:&lt;br\/&gt;&lt;ul&gt;&lt;li&gt;Korban meninggal yang dicatat merupakan jumlah korban meninggal pada akhir masa tanggap darurat.&lt;\/li&gt;&lt;li&gt;Kematian atau kehilangan pada hewan ternak tidak dicatat.&lt;\/li&gt;&lt;\/ul&gt;&lt;\/p&gt;",
+                    "metadata_kegunaan": null,
+                    "metadata_keterangan_tambahan": null,
+                    "metadata_interpretasi": null,
+                    "metadata_rumusan": [],
+                    "metadata_rumus_html": null,
+                    "metadata_dihasilkan_oleh": [],
+                    "tanggal_cut_off": null
+                },
+                "sslb5d0jxr": {
+                    "nama_variabel": "Jumlah Korban Bencana Letusan Gunung Api - Luka-luka",
+                    "nama_variabel_en": "Number of Victim Due to Volcanic Eruption - Casualty",
+                    "tipe": "Numerik",
+                    "angka_desimal_dibelakang_koma": 0,
+                    "metadata_indikator": "Jumlah Korban Luka\/Sakit",
+                    "metadata_konsep_definisi": "&lt;p&gt;Definisi Berdasarkan Peraturan Kepala BNPB Nomor 8 Tahun 2011 tentang Standardisasi Data Kebencanaan:&lt;br\/&gt;Korban luka\/sakit adalah orang yang mengalami luka-luka atau sakit, dalam keadaan luka ringan, maupun luka parah\/berat, baik yang berobat jalan maupun rawat inap.&lt;br\/&gt;&lt;br\/&gt;Catatan:&lt;br\/&gt;&lt;ul&gt;&lt;li&gt;Korban meninggal yang dicatat merupakan jumlah korban meninggal pada akhir masa tanggap darurat.&lt;\/li&gt;&lt;li&gt;Kematian atau kehilangan pada hewan ternak tidak dicatat.&lt;\/li&gt;&lt;\/ul&gt;&lt;\/p&gt;",
+                    "metadata_kegunaan": null,
+                    "metadata_keterangan_tambahan": null,
+                    "metadata_interpretasi": null,
+                    "metadata_rumusan": [],
+                    "metadata_rumus_html": null,
+                    "metadata_dihasilkan_oleh": [],
+                    "tanggal_cut_off": null
+                },
+                "nskymzvuoy": {
+                    "nama_variabel": "Jumlah Korban Bencana Letusan Gunung Api - Terdampak dan Mengungsi",
+                    "nama_variabel_en": "Number of Victim Due to Volcanic Eruption - Affected and Evacuated",
+                    "tipe": "Numerik",
+                    "angka_desimal_dibelakang_koma": 0,
+                    "metadata_indikator": "Jumlah Korban Terdampak\/Mengungsi",
+                    "metadata_konsep_definisi": "&lt;p&gt;Definisi Berdasarkan Peraturan Kepala BNPB Nomor 8 Tahun 2011 tentang Standardisasi Data Kebencanaan:&lt;\/p&gt;&lt;p&gt;&lt;b&gt;Penderita\/terdampak&lt;\/b&gt;\u00a0 adalah orang atau sekelompok orang yang menderita akibat\u00a0 dampak\u00a0 buruk\u00a0 bencana,\u00a0 seperti\u00a0 kerusakan\u00a0 dan\u00a0 atau\u00a0 kerugian\u00a0 harta benda, namun masih dapat menempati tempat tinggalnya.&lt;\/p&gt;&lt;p&gt;&lt;b&gt;Pengungsi&lt;\/b&gt; adalah orang\/sekelompok orang yang terpaksa atau dipaksa keluar dari tempat tinggalnya ketempat yang lebih aman dalam upaya menyelamatkan diri\/jiwa untuk jangka waktu yang belum pasti sebagai akibat dampak buruk bencana.&lt;br&gt;&lt;br&gt;Catatan:&lt;br&gt;&lt;\/p&gt;&lt;ul&gt;&lt;li&gt;Korban meninggal yang dicatat merupakan jumlah korban meninggal pada akhir masa tanggap darurat.&lt;\/li&gt;&lt;li&gt;Kematian atau kehilangan pada hewan ternak tidak dicatat.&lt;\/li&gt;&lt;\/ul&gt;&lt;p&gt;&lt;\/p&gt;\r\n",
+                    "metadata_kegunaan": null,
+                    "metadata_keterangan_tambahan": null,
+                    "metadata_interpretasi": null,
+                    "metadata_rumusan": [],
+                    "metadata_rumus_html": null,
+                    "metadata_dihasilkan_oleh": [],
+                    "tanggal_cut_off": null
+                },
+                "m5ac8vnbc4": {
+                    "nama_variabel": "Jumlah Korban Bencana Tanah Longsor - Meninggal dan Hilang",
+                    "nama_variabel_en": "Number of Victim Due to Landslide - Deaths and Missing",
+                    "tipe": "Numerik",
+                    "angka_desimal_dibelakang_koma": 0,
+                    "metadata_indikator": "Jumlah Korban Meninggal",
+                    "metadata_konsep_definisi": "&lt;p&gt;Definisi Berdasarkan Peraturan Kepala BNPB Nomor 8 Tahun 2011 tentang Standardisasi Data Kebencanaan:&lt;br\/&gt;Korban meninggal adalah orang yang dilaporkan tewas atau meninggal dunia akibat bencana. &lt;br\/&gt;&lt;br\/&gt;Catatan:&lt;br\/&gt;&lt;ul&gt;&lt;li&gt;Korban meninggal yang dicatat merupakan jumlah korban meninggal pada akhir masa tanggap darurat.&lt;\/li&gt;&lt;li&gt;Kematian atau kehilangan pada hewan ternak tidak dicatat.&lt;\/li&gt;&lt;\/ul&gt;&lt;\/p&gt;",
+                    "metadata_kegunaan": null,
+                    "metadata_keterangan_tambahan": null,
+                    "metadata_interpretasi": null,
+                    "metadata_rumusan": [],
+                    "metadata_rumus_html": null,
+                    "metadata_dihasilkan_oleh": [],
+                    "tanggal_cut_off": null
+                },
+                "iexrg8rhsl": {
+                    "nama_variabel": "Jumlah Korban Bencana Tanah Longsor - Luka-luka",
+                    "nama_variabel_en": "Number of Victim Due to Landslide - Casualty",
+                    "tipe": "Numerik",
+                    "angka_desimal_dibelakang_koma": 0,
+                    "metadata_indikator": "Jumlah Korban Luka\/Sakit",
+                    "metadata_konsep_definisi": "&lt;p&gt;Definisi Berdasarkan Peraturan Kepala BNPB Nomor 8 Tahun 2011 tentang Standardisasi Data Kebencanaan:&lt;br\/&gt;Korban luka\/sakit adalah orang yang mengalami luka-luka atau sakit, dalam keadaan luka ringan, maupun luka parah\/berat, baik yang berobat jalan maupun rawat inap.&lt;br\/&gt;&lt;br\/&gt;Catatan:&lt;br\/&gt;&lt;ul&gt;&lt;li&gt;Korban meninggal yang dicatat merupakan jumlah korban meninggal pada akhir masa tanggap darurat.&lt;\/li&gt;&lt;li&gt;Kematian atau kehilangan pada hewan ternak tidak dicatat.&lt;\/li&gt;&lt;\/ul&gt;&lt;\/p&gt;",
+                    "metadata_kegunaan": null,
+                    "metadata_keterangan_tambahan": null,
+                    "metadata_interpretasi": null,
+                    "metadata_rumusan": [],
+                    "metadata_rumus_html": null,
+                    "metadata_dihasilkan_oleh": [],
+                    "tanggal_cut_off": null
+                },
+                "j1gyqanmwl": {
+                    "nama_variabel": "Jumlah Korban Bencana Tanah Longsor - Terdampak dan Mengungsi",
+                    "nama_variabel_en": "Number of Victim Due to Landslide - Affected and Evacuated",
+                    "tipe": "Numerik",
+                    "angka_desimal_dibelakang_koma": 0,
+                    "metadata_indikator": "Jumlah Korban Terdampak\/Mengungsi",
+                    "metadata_konsep_definisi": "&lt;p&gt;Definisi Berdasarkan Peraturan Kepala BNPB Nomor 8 Tahun 2011 tentang Standardisasi Data Kebencanaan:&lt;\/p&gt;&lt;p&gt;&lt;b&gt;Penderita\/terdampak&lt;\/b&gt;\u00a0 adalah orang atau sekelompok orang yang menderita akibat\u00a0 dampak\u00a0 buruk\u00a0 bencana,\u00a0 seperti\u00a0 kerusakan\u00a0 dan\u00a0 atau\u00a0 kerugian\u00a0 harta benda, namun masih dapat menempati tempat tinggalnya.&lt;\/p&gt;&lt;p&gt;&lt;b&gt;Pengungsi&lt;\/b&gt; adalah orang\/sekelompok orang yang terpaksa atau dipaksa keluar dari tempat tinggalnya ketempat yang lebih aman dalam upaya menyelamatkan diri\/jiwa untuk jangka waktu yang belum pasti sebagai akibat dampak buruk bencana.&lt;br&gt;&lt;br&gt;Catatan:&lt;br&gt;&lt;\/p&gt;&lt;ul&gt;&lt;li&gt;Korban meninggal yang dicatat merupakan jumlah korban meninggal pada akhir masa tanggap darurat.&lt;\/li&gt;&lt;li&gt;Kematian atau kehilangan pada hewan ternak tidak dicatat.&lt;\/li&gt;&lt;\/ul&gt;&lt;p&gt;&lt;\/p&gt;\r\n",
+                    "metadata_kegunaan": null,
+                    "metadata_keterangan_tambahan": null,
+                    "metadata_interpretasi": null,
+                    "metadata_rumusan": [],
+                    "metadata_rumus_html": null,
+                    "metadata_dihasilkan_oleh": [],
+                    "tanggal_cut_off": null
+                },
+                "oi07hjwo6m": {
+                    "nama_variabel": "Jumlah Korban Bencana Banjir - Meninggal dan Hilang",
+                    "nama_variabel_en": "Number of Victim Due to Floods - Deaths and Missing",
+                    "tipe": "Numerik",
+                    "angka_desimal_dibelakang_koma": 0,
+                    "metadata_indikator": "Jumlah Korban Meninggal",
+                    "metadata_konsep_definisi": "&lt;p&gt;Definisi Berdasarkan Peraturan Kepala BNPB Nomor 8 Tahun 2011 tentang Standardisasi Data Kebencanaan:&lt;br\/&gt;Korban meninggal adalah orang yang dilaporkan tewas atau meninggal dunia akibat bencana. &lt;br\/&gt;&lt;br\/&gt;Catatan:&lt;br\/&gt;&lt;ul&gt;&lt;li&gt;Korban meninggal yang dicatat merupakan jumlah korban meninggal pada akhir masa tanggap darurat.&lt;\/li&gt;&lt;li&gt;Kematian atau kehilangan pada hewan ternak tidak dicatat.&lt;\/li&gt;&lt;\/ul&gt;&lt;\/p&gt;",
+                    "metadata_kegunaan": null,
+                    "metadata_keterangan_tambahan": null,
+                    "metadata_interpretasi": null,
+                    "metadata_rumusan": [],
+                    "metadata_rumus_html": null,
+                    "metadata_dihasilkan_oleh": [],
+                    "tanggal_cut_off": null
+                },
+                "6gdq6itv5t": {
+                    "nama_variabel": "Jumlah Korban Bencana Banjir - Luka-luka",
+                    "nama_variabel_en": "Number of Victim Due to Floods - Casualty",
+                    "tipe": "Numerik",
+                    "angka_desimal_dibelakang_koma": 0,
+                    "metadata_indikator": "Jumlah Korban Luka\/Sakit",
+                    "metadata_konsep_definisi": "&lt;p&gt;Definisi Berdasarkan Peraturan Kepala BNPB Nomor 8 Tahun 2011 tentang Standardisasi Data Kebencanaan:&lt;br\/&gt;Korban luka\/sakit adalah orang yang mengalami luka-luka atau sakit, dalam keadaan luka ringan, maupun luka parah\/berat, baik yang berobat jalan maupun rawat inap.&lt;br\/&gt;&lt;br\/&gt;Catatan:&lt;br\/&gt;&lt;ul&gt;&lt;li&gt;Korban meninggal yang dicatat merupakan jumlah korban meninggal pada akhir masa tanggap darurat.&lt;\/li&gt;&lt;li&gt;Kematian atau kehilangan pada hewan ternak tidak dicatat.&lt;\/li&gt;&lt;\/ul&gt;&lt;\/p&gt;",
+                    "metadata_kegunaan": null,
+                    "metadata_keterangan_tambahan": null,
+                    "metadata_interpretasi": null,
+                    "metadata_rumusan": [],
+                    "metadata_rumus_html": null,
+                    "metadata_dihasilkan_oleh": [],
+                    "tanggal_cut_off": null
+                },
+                "yutbgoseqi": {
+                    "nama_variabel": "Jumlah Korban Bencana Banjir - Terdampak dan Mengungsi",
+                    "nama_variabel_en": "Number of Victim Due to Floods - Affected and Evacuated",
+                    "tipe": "Numerik",
+                    "angka_desimal_dibelakang_koma": 0,
+                    "metadata_indikator": "Jumlah Korban Terdampak\/Mengungsi",
+                    "metadata_konsep_definisi": "&lt;p&gt;Definisi Berdasarkan Peraturan Kepala BNPB Nomor 8 Tahun 2011 tentang Standardisasi Data Kebencanaan:&lt;\/p&gt;&lt;p&gt;&lt;b&gt;Penderita\/terdampak&lt;\/b&gt;\u00a0 adalah orang atau sekelompok orang yang menderita akibat\u00a0 dampak\u00a0 buruk\u00a0 bencana,\u00a0 seperti\u00a0 kerusakan\u00a0 dan\u00a0 atau\u00a0 kerugian\u00a0 harta benda, namun masih dapat menempati tempat tinggalnya.&lt;\/p&gt;&lt;p&gt;&lt;b&gt;Pengungsi&lt;\/b&gt; adalah orang\/sekelompok orang yang terpaksa atau dipaksa keluar dari tempat tinggalnya ketempat yang lebih aman dalam upaya menyelamatkan diri\/jiwa untuk jangka waktu yang belum pasti sebagai akibat dampak buruk bencana.&lt;br&gt;&lt;br&gt;Catatan:&lt;br&gt;&lt;\/p&gt;&lt;ul&gt;&lt;li&gt;Korban meninggal yang dicatat merupakan jumlah korban meninggal pada akhir masa tanggap darurat.&lt;\/li&gt;&lt;li&gt;Kematian atau kehilangan pada hewan ternak tidak dicatat.&lt;\/li&gt;&lt;\/ul&gt;&lt;p&gt;&lt;\/p&gt;\r\n",
+                    "metadata_kegunaan": null,
+                    "metadata_keterangan_tambahan": null,
+                    "metadata_interpretasi": null,
+                    "metadata_rumusan": [],
+                    "metadata_rumus_html": null,
+                    "metadata_dihasilkan_oleh": [],
+                    "tanggal_cut_off": null
+                },
+                "p5wbc2tmem": {
+                    "nama_variabel": "Jumlah Korban Bencana Kekeringan - Meninggal dan Hilang",
+                    "nama_variabel_en": "Number of Victim Due to Drought - Deaths and Missing",
+                    "tipe": "Numerik",
+                    "angka_desimal_dibelakang_koma": 0,
+                    "metadata_indikator": "Jumlah Korban Meninggal",
+                    "metadata_konsep_definisi": "&lt;p&gt;Definisi Berdasarkan Peraturan Kepala BNPB Nomor 8 Tahun 2011 tentang Standardisasi Data Kebencanaan:&lt;br\/&gt;Korban meninggal adalah orang yang dilaporkan tewas atau meninggal dunia akibat bencana. &lt;br\/&gt;&lt;br\/&gt;Catatan:&lt;br\/&gt;&lt;ul&gt;&lt;li&gt;Korban meninggal yang dicatat merupakan jumlah korban meninggal pada akhir masa tanggap darurat.&lt;\/li&gt;&lt;li&gt;Kematian atau kehilangan pada hewan ternak tidak dicatat.&lt;\/li&gt;&lt;\/ul&gt;&lt;\/p&gt;",
+                    "metadata_kegunaan": null,
+                    "metadata_keterangan_tambahan": null,
+                    "metadata_interpretasi": null,
+                    "metadata_rumusan": [],
+                    "metadata_rumus_html": null,
+                    "metadata_dihasilkan_oleh": [],
+                    "tanggal_cut_off": null
+                },
+                "9qkokz9gsp": {
+                    "nama_variabel": "Jumlah Korban Bencana Kekeringan - Luka-luka",
+                    "nama_variabel_en": "Number of Victim Due to Drought - Casualty",
+                    "tipe": "Numerik",
+                    "angka_desimal_dibelakang_koma": 0,
+                    "metadata_indikator": "Jumlah Korban Luka\/Sakit",
+                    "metadata_konsep_definisi": "&lt;p&gt;Definisi Berdasarkan Peraturan Kepala BNPB Nomor 8 Tahun 2011 tentang Standardisasi Data Kebencanaan:&lt;br\/&gt;Korban luka\/sakit adalah orang yang mengalami luka-luka atau sakit, dalam keadaan luka ringan, maupun luka parah\/berat, baik yang berobat jalan maupun rawat inap.&lt;br\/&gt;&lt;br\/&gt;Catatan:&lt;br\/&gt;&lt;ul&gt;&lt;li&gt;Korban meninggal yang dicatat merupakan jumlah korban meninggal pada akhir masa tanggap darurat.&lt;\/li&gt;&lt;li&gt;Kematian atau kehilangan pada hewan ternak tidak dicatat.&lt;\/li&gt;&lt;\/ul&gt;&lt;\/p&gt;",
+                    "metadata_kegunaan": null,
+                    "metadata_keterangan_tambahan": null,
+                    "metadata_interpretasi": null,
+                    "metadata_rumusan": [],
+                    "metadata_rumus_html": null,
+                    "metadata_dihasilkan_oleh": [],
+                    "tanggal_cut_off": null
+                },
+                "qllarbwum0": {
+                    "nama_variabel": "Jumlah Korban Bencana Kekeringan - Terdampak dan Mengungsi",
+                    "nama_variabel_en": "Number of Victim Due to Drought - Affected and Evacuated",
+                    "tipe": "Numerik",
+                    "angka_desimal_dibelakang_koma": 0,
+                    "metadata_indikator": "Jumlah Korban Terdampak\/Mengungsi",
+                    "metadata_konsep_definisi": "&lt;p&gt;Definisi Berdasarkan Peraturan Kepala BNPB Nomor 8 Tahun 2011 tentang Standardisasi Data Kebencanaan:&lt;\/p&gt;&lt;p&gt;&lt;b&gt;Penderita\/terdampak&lt;\/b&gt;\u00a0 adalah orang atau sekelompok orang yang menderita akibat\u00a0 dampak\u00a0 buruk\u00a0 bencana,\u00a0 seperti\u00a0 kerusakan\u00a0 dan\u00a0 atau\u00a0 kerugian\u00a0 harta benda, namun masih dapat menempati tempat tinggalnya.&lt;\/p&gt;&lt;p&gt;&lt;b&gt;Pengungsi&lt;\/b&gt; adalah orang\/sekelompok orang yang terpaksa atau dipaksa keluar dari tempat tinggalnya ketempat yang lebih aman dalam upaya menyelamatkan diri\/jiwa untuk jangka waktu yang belum pasti sebagai akibat dampak buruk bencana.&lt;br&gt;&lt;br&gt;Catatan:&lt;br&gt;&lt;\/p&gt;&lt;ul&gt;&lt;li&gt;Korban meninggal yang dicatat merupakan jumlah korban meninggal pada akhir masa tanggap darurat.&lt;\/li&gt;&lt;li&gt;Kematian atau kehilangan pada hewan ternak tidak dicatat.&lt;\/li&gt;&lt;\/ul&gt;&lt;p&gt;&lt;\/p&gt;\r\n",
+                    "metadata_kegunaan": null,
+                    "metadata_keterangan_tambahan": null,
+                    "metadata_interpretasi": null,
+                    "metadata_rumusan": [],
+                    "metadata_rumus_html": null,
+                    "metadata_dihasilkan_oleh": [],
+                    "tanggal_cut_off": null
+                },
+                "yeuxd8fuc6": {
+                    "nama_variabel": "Jumlah Korban Bencana Kebakaran Hutan dan Lahan - Meninggal dan Hilang",
+                    "nama_variabel_en": "Number of Victim Due to Forest and Land Fires - Deaths and Missing",
+                    "tipe": "Numerik",
+                    "angka_desimal_dibelakang_koma": 0,
+                    "metadata_indikator": "Jumlah Korban Meninggal",
+                    "metadata_konsep_definisi": "&lt;p&gt;Definisi Berdasarkan Peraturan Kepala BNPB Nomor 8 Tahun 2011 tentang Standardisasi Data Kebencanaan:&lt;br\/&gt;Korban meninggal adalah orang yang dilaporkan tewas atau meninggal dunia akibat bencana. &lt;br\/&gt;&lt;br\/&gt;Catatan:&lt;br\/&gt;&lt;ul&gt;&lt;li&gt;Korban meninggal yang dicatat merupakan jumlah korban meninggal pada akhir masa tanggap darurat.&lt;\/li&gt;&lt;li&gt;Kematian atau kehilangan pada hewan ternak tidak dicatat.&lt;\/li&gt;&lt;\/ul&gt;&lt;\/p&gt;",
+                    "metadata_kegunaan": null,
+                    "metadata_keterangan_tambahan": null,
+                    "metadata_interpretasi": null,
+                    "metadata_rumusan": [],
+                    "metadata_rumus_html": null,
+                    "metadata_dihasilkan_oleh": [],
+                    "tanggal_cut_off": null
+                },
+                "qcbpofvu9o": {
+                    "nama_variabel": "Jumlah Korban Bencana Kebakaran Hutan dan Lahan - Luka-luka",
+                    "nama_variabel_en": "Number of Victim Due to Forest and Land Fires - Casualty",
+                    "tipe": "Numerik",
+                    "angka_desimal_dibelakang_koma": 0,
+                    "metadata_indikator": "Jumlah Korban Luka\/Sakit",
+                    "metadata_konsep_definisi": "&lt;p&gt;Definisi Berdasarkan Peraturan Kepala BNPB Nomor 8 Tahun 2011 tentang Standardisasi Data Kebencanaan:&lt;br\/&gt;Korban luka\/sakit adalah orang yang mengalami luka-luka atau sakit, dalam keadaan luka ringan, maupun luka parah\/berat, baik yang berobat jalan maupun rawat inap.&lt;br\/&gt;&lt;br\/&gt;Catatan:&lt;br\/&gt;&lt;ul&gt;&lt;li&gt;Korban meninggal yang dicatat merupakan jumlah korban meninggal pada akhir masa tanggap darurat.&lt;\/li&gt;&lt;li&gt;Kematian atau kehilangan pada hewan ternak tidak dicatat.&lt;\/li&gt;&lt;\/ul&gt;&lt;\/p&gt;",
+                    "metadata_kegunaan": null,
+                    "metadata_keterangan_tambahan": null,
+                    "metadata_interpretasi": null,
+                    "metadata_rumusan": [],
+                    "metadata_rumus_html": null,
+                    "metadata_dihasilkan_oleh": [],
+                    "tanggal_cut_off": null
+                },
+                "rlrkyxzxpi": {
+                    "nama_variabel": "Jumlah Korban Bencana Kebakaran Hutan dan Lahan - Terdampak dan Mengungsi",
+                    "nama_variabel_en": "Number of Victim Due to Forest and Land Fires - Affected and Evacuated",
+                    "tipe": "Numerik",
+                    "angka_desimal_dibelakang_koma": 0,
+                    "metadata_indikator": "Jumlah Korban Terdampak\/Mengungsi",
+                    "metadata_konsep_definisi": "&lt;p&gt;Definisi Berdasarkan Peraturan Kepala BNPB Nomor 8 Tahun 2011 tentang Standardisasi Data Kebencanaan:&lt;\/p&gt;&lt;p&gt;&lt;b&gt;Penderita\/terdampak&lt;\/b&gt;\u00a0 adalah orang atau sekelompok orang yang menderita akibat\u00a0 dampak\u00a0 buruk\u00a0 bencana,\u00a0 seperti\u00a0 kerusakan\u00a0 dan\u00a0 atau\u00a0 kerugian\u00a0 harta benda, namun masih dapat menempati tempat tinggalnya.&lt;\/p&gt;&lt;p&gt;&lt;b&gt;Pengungsi&lt;\/b&gt; adalah orang\/sekelompok orang yang terpaksa atau dipaksa keluar dari tempat tinggalnya ketempat yang lebih aman dalam upaya menyelamatkan diri\/jiwa untuk jangka waktu yang belum pasti sebagai akibat dampak buruk bencana.&lt;br&gt;&lt;br&gt;Catatan:&lt;br&gt;&lt;\/p&gt;&lt;ul&gt;&lt;li&gt;Korban meninggal yang dicatat merupakan jumlah korban meninggal pada akhir masa tanggap darurat.&lt;\/li&gt;&lt;li&gt;Kematian atau kehilangan pada hewan ternak tidak dicatat.&lt;\/li&gt;&lt;\/ul&gt;&lt;p&gt;&lt;\/p&gt;\r\n",
+                    "metadata_kegunaan": null,
+                    "metadata_keterangan_tambahan": null,
+                    "metadata_interpretasi": null,
+                    "metadata_rumusan": [],
+                    "metadata_rumus_html": null,
+                    "metadata_dihasilkan_oleh": [],
+                    "tanggal_cut_off": null
+                },
+                "t2hmtvf9wm": {
+                    "nama_variabel": "Jumlah Korban Bencana Cuaca Ekstrem - Meninggal dan Hilang",
+                    "nama_variabel_en": "Number of Victim Due to Extreme Weather - Deaths and Missing",
+                    "tipe": "Numerik",
+                    "angka_desimal_dibelakang_koma": 0,
+                    "metadata_indikator": "Jumlah Korban Meninggal",
+                    "metadata_konsep_definisi": "&lt;p&gt;Definisi Berdasarkan Peraturan Kepala BNPB Nomor 8 Tahun 2011 tentang Standardisasi Data Kebencanaan:&lt;br\/&gt;Korban meninggal adalah orang yang dilaporkan tewas atau meninggal dunia akibat bencana. &lt;br\/&gt;&lt;br\/&gt;Catatan:&lt;br\/&gt;&lt;ul&gt;&lt;li&gt;Korban meninggal yang dicatat merupakan jumlah korban meninggal pada akhir masa tanggap darurat.&lt;\/li&gt;&lt;li&gt;Kematian atau kehilangan pada hewan ternak tidak dicatat.&lt;\/li&gt;&lt;\/ul&gt;&lt;\/p&gt;",
+                    "metadata_kegunaan": null,
+                    "metadata_keterangan_tambahan": null,
+                    "metadata_interpretasi": null,
+                    "metadata_rumusan": [],
+                    "metadata_rumus_html": null,
+                    "metadata_dihasilkan_oleh": [],
+                    "tanggal_cut_off": null
+                },
+                "0ennienmgu": {
+                    "nama_variabel": "Jumlah Korban Bencana Cuaca Ekstrem - Luka-luka",
+                    "nama_variabel_en": "Number of Victim Due to Extreme Weather - Casualty",
+                    "tipe": "Numerik",
+                    "angka_desimal_dibelakang_koma": 0,
+                    "metadata_indikator": "Jumlah Korban Luka\/Sakit",
+                    "metadata_konsep_definisi": "&lt;p&gt;Definisi Berdasarkan Peraturan Kepala BNPB Nomor 8 Tahun 2011 tentang Standardisasi Data Kebencanaan:&lt;br\/&gt;Korban luka\/sakit adalah orang yang mengalami luka-luka atau sakit, dalam keadaan luka ringan, maupun luka parah\/berat, baik yang berobat jalan maupun rawat inap.&lt;br\/&gt;&lt;br\/&gt;Catatan:&lt;br\/&gt;&lt;ul&gt;&lt;li&gt;Korban meninggal yang dicatat merupakan jumlah korban meninggal pada akhir masa tanggap darurat.&lt;\/li&gt;&lt;li&gt;Kematian atau kehilangan pada hewan ternak tidak dicatat.&lt;\/li&gt;&lt;\/ul&gt;&lt;\/p&gt;",
+                    "metadata_kegunaan": null,
+                    "metadata_keterangan_tambahan": null,
+                    "metadata_interpretasi": null,
+                    "metadata_rumusan": [],
+                    "metadata_rumus_html": null,
+                    "metadata_dihasilkan_oleh": [],
+                    "tanggal_cut_off": null
+                },
+                "anrci5vxwf": {
+                    "nama_variabel": "Jumlah Korban Bencana Cuaca Ekstrem - Terdampak dan Mengungsi",
+                    "nama_variabel_en": "Number of Victim Due to Extreme Weather - Affected and Evacuated",
+                    "tipe": "Numerik",
+                    "angka_desimal_dibelakang_koma": 0,
+                    "metadata_indikator": "Jumlah Korban Terdampak\/Mengungsi",
+                    "metadata_konsep_definisi": "&lt;p&gt;Definisi Berdasarkan Peraturan Kepala BNPB Nomor 8 Tahun 2011 tentang Standardisasi Data Kebencanaan:&lt;\/p&gt;&lt;p&gt;&lt;b&gt;Penderita\/terdampak&lt;\/b&gt;\u00a0 adalah orang atau sekelompok orang yang menderita akibat\u00a0 dampak\u00a0 buruk\u00a0 bencana,\u00a0 seperti\u00a0 kerusakan\u00a0 dan\u00a0 atau\u00a0 kerugian\u00a0 harta benda, namun masih dapat menempati tempat tinggalnya.&lt;\/p&gt;&lt;p&gt;&lt;b&gt;Pengungsi&lt;\/b&gt; adalah orang\/sekelompok orang yang terpaksa atau dipaksa keluar dari tempat tinggalnya ketempat yang lebih aman dalam upaya menyelamatkan diri\/jiwa untuk jangka waktu yang belum pasti sebagai akibat dampak buruk bencana.&lt;br&gt;&lt;br&gt;Catatan:&lt;br&gt;&lt;\/p&gt;&lt;ul&gt;&lt;li&gt;Korban meninggal yang dicatat merupakan jumlah korban meninggal pada akhir masa tanggap darurat.&lt;\/li&gt;&lt;li&gt;Kematian atau kehilangan pada hewan ternak tidak dicatat.&lt;\/li&gt;&lt;\/ul&gt;&lt;p&gt;&lt;\/p&gt;\r\n",
+                    "metadata_kegunaan": null,
+                    "metadata_keterangan_tambahan": null,
+                    "metadata_interpretasi": null,
+                    "metadata_rumusan": [],
+                    "metadata_rumus_html": null,
+                    "metadata_dihasilkan_oleh": [],
+                    "tanggal_cut_off": null
+                },
+                "et3kcdxxuy": {
+                    "nama_variabel": "Jumlah Korban Bencana Gelombang Pasang\/Abrasi - Meninggal dan Hilang",
+                    "nama_variabel_en": "Number of Victim Due to Tidal Wave\/Abrasion - Deaths and Missing",
+                    "tipe": "Numerik",
+                    "angka_desimal_dibelakang_koma": 0,
+                    "metadata_indikator": "Jumlah Korban Meninggal",
+                    "metadata_konsep_definisi": "&lt;p&gt;Definisi Berdasarkan Peraturan Kepala BNPB Nomor 8 Tahun 2011 tentang Standardisasi Data Kebencanaan:&lt;br\/&gt;Korban meninggal adalah orang yang dilaporkan tewas atau meninggal dunia akibat bencana. &lt;br\/&gt;&lt;br\/&gt;Catatan:&lt;br\/&gt;&lt;ul&gt;&lt;li&gt;Korban meninggal yang dicatat merupakan jumlah korban meninggal pada akhir masa tanggap darurat.&lt;\/li&gt;&lt;li&gt;Kematian atau kehilangan pada hewan ternak tidak dicatat.&lt;\/li&gt;&lt;\/ul&gt;&lt;\/p&gt;",
+                    "metadata_kegunaan": null,
+                    "metadata_keterangan_tambahan": null,
+                    "metadata_interpretasi": null,
+                    "metadata_rumusan": [],
+                    "metadata_rumus_html": null,
+                    "metadata_dihasilkan_oleh": [],
+                    "tanggal_cut_off": null
+                },
+                "vczbteoreb": {
+                    "nama_variabel": "Jumlah Korban Bencana Gelombang Pasang\/Abrasi - Luka-luka",
+                    "nama_variabel_en": "Number of Victim Due to Tidal Wave\/Abrasion - Casualty",
+                    "tipe": "Numerik",
+                    "angka_desimal_dibelakang_koma": 0,
+                    "metadata_indikator": "Jumlah Korban Luka\/Sakit",
+                    "metadata_konsep_definisi": "&lt;p&gt;Definisi Berdasarkan Peraturan Kepala BNPB Nomor 8 Tahun 2011 tentang Standardisasi Data Kebencanaan:&lt;br\/&gt;Korban luka\/sakit adalah orang yang mengalami luka-luka atau sakit, dalam keadaan luka ringan, maupun luka parah\/berat, baik yang berobat jalan maupun rawat inap.&lt;br\/&gt;&lt;br\/&gt;Catatan:&lt;br\/&gt;&lt;ul&gt;&lt;li&gt;Korban meninggal yang dicatat merupakan jumlah korban meninggal pada akhir masa tanggap darurat.&lt;\/li&gt;&lt;li&gt;Kematian atau kehilangan pada hewan ternak tidak dicatat.&lt;\/li&gt;&lt;\/ul&gt;&lt;\/p&gt;",
+                    "metadata_kegunaan": null,
+                    "metadata_keterangan_tambahan": null,
+                    "metadata_interpretasi": null,
+                    "metadata_rumusan": [],
+                    "metadata_rumus_html": null,
+                    "metadata_dihasilkan_oleh": [],
+                    "tanggal_cut_off": null
+                },
+                "ybaeeknxpr": {
+                    "nama_variabel": "Jumlah Korban Bencana Gelombang Pasang\/Abrasi - Terdampak dan Mengungsi",
+                    "nama_variabel_en": "Number of Victim Due to Tidal Wave\/Abrasion - Affected and Evacuated",
+                    "tipe": "Numerik",
+                    "angka_desimal_dibelakang_koma": 0,
+                    "metadata_indikator": "Jumlah Korban Terdampak\/Mengungsi",
+                    "metadata_konsep_definisi": "&lt;p&gt;Definisi Berdasarkan Peraturan Kepala BNPB Nomor 8 Tahun 2011 tentang Standardisasi Data Kebencanaan:&lt;\/p&gt;&lt;p&gt;&lt;b&gt;Penderita\/terdampak&lt;\/b&gt;\u00a0 adalah orang atau sekelompok orang yang menderita akibat\u00a0 dampak\u00a0 buruk\u00a0 bencana,\u00a0 seperti\u00a0 kerusakan\u00a0 dan\u00a0 atau\u00a0 kerugian\u00a0 harta benda, namun masih dapat menempati tempat tinggalnya.&lt;\/p&gt;&lt;p&gt;&lt;b&gt;Pengungsi&lt;\/b&gt; adalah orang\/sekelompok orang yang terpaksa atau dipaksa keluar dari tempat tinggalnya ketempat yang lebih aman dalam upaya menyelamatkan diri\/jiwa untuk jangka waktu yang belum pasti sebagai akibat dampak buruk bencana.&lt;br&gt;&lt;br&gt;Catatan:&lt;br&gt;&lt;\/p&gt;&lt;ul&gt;&lt;li&gt;Korban meninggal yang dicatat merupakan jumlah korban meninggal pada akhir masa tanggap darurat.&lt;\/li&gt;&lt;li&gt;Kematian atau kehilangan pada hewan ternak tidak dicatat.&lt;\/li&gt;&lt;\/ul&gt;&lt;p&gt;&lt;\/p&gt;\r\n",
+                    "metadata_kegunaan": null,
+                    "metadata_keterangan_tambahan": null,
+                    "metadata_interpretasi": null,
+                    "metadata_rumusan": [],
+                    "metadata_rumus_html": null,
+                    "metadata_dihasilkan_oleh": [],
+                    "tanggal_cut_off": null
+                }
+            },
+            "data": [
+                {
+                    "label": "DI Yogyakarta",
+                    "label_raw": "DI Yogyakarta",
+                    "satuan": null,
+                    "kode_wilayah": 3400000,
+                    "variables": {
+                        "mktyqvj96l": {
+                            "value": "1",
+                            "value_raw": "1",
+                            "value_code": null
+                        },
+                        "f4m1uocsn3": {
+                            "value": "26",
+                            "value_raw": "26",
+                            "value_code": null
+                        },
+                        "j8x0aw2c79": {
+                            "value": "1.320",
+                            "value_raw": "1.320",
+                            "value_code": null
+                        },
+                        "j0amtw5gcg": {
+                            "value": "\u2013",
+                            "value_raw": null,
+                            "value_code": "\u2013"
+                        },
+                        "lsfnmdtlvu": {
+                            "value": "\u2013",
+                            "value_raw": null,
+                            "value_code": "\u2013"
+                        },
+                        "ei54uhhlbr": {
+                            "value": "\u2013",
+                            "value_raw": null,
+                            "value_code": "\u2013"
+                        },
+                        "4gfrr2gots": {
+                            "value": "\u2013",
+                            "value_raw": null,
+                            "value_code": "\u2013"
+                        },
+                        "hcdulyjwt9": {
+                            "value": "\u2013",
+                            "value_raw": null,
+                            "value_code": "\u2013"
+                        },
+                        "qyseivmjow": {
+                            "value": "\u2013",
+                            "value_raw": null,
+                            "value_code": "\u2013"
+                        },
+                        "6l7v4ekdjy": {
+                            "value": "\u2013",
+                            "value_raw": null,
+                            "value_code": "\u2013"
+                        },
+                        "sslb5d0jxr": {
+                            "value": "\u2013",
+                            "value_raw": null,
+                            "value_code": "\u2013"
+                        },
+                        "nskymzvuoy": {
+                            "value": "\u2013",
+                            "value_raw": null,
+                            "value_code": "\u2013"
+                        },
+                        "m5ac8vnbc4": {
+                            "value": "\u2013",
+                            "value_raw": null,
+                            "value_code": "\u2013"
+                        },
+                        "iexrg8rhsl": {
+                            "value": "\u2013",
+                            "value_raw": null,
+                            "value_code": "\u2013"
+                        },
+                        "j1gyqanmwl": {
+                            "value": "207",
+                            "value_raw": "207",
+                            "value_code": null
+                        },
+                        "oi07hjwo6m": {
+                            "value": "\u2013",
+                            "value_raw": null,
+                            "value_code": "\u2013"
+                        },
+                        "6gdq6itv5t": {
+                            "value": "\u2013",
+                            "value_raw": null,
+                            "value_code": "\u2013"
+                        },
+                        "yutbgoseqi": {
+                            "value": "215",
+                            "value_raw": "215",
+                            "value_code": null
+                        },
+                        "p5wbc2tmem": {
+                            "value": "\u2013",
+                            "value_raw": null,
+                            "value_code": "\u2013"
+                        },
+                        "9qkokz9gsp": {
+                            "value": "\u2013",
+                            "value_raw": null,
+                            "value_code": "\u2013"
+                        },
+                        "qllarbwum0": {
+                            "value": "43.156",
+                            "value_raw": "43.156",
+                            "value_code": null
+                        },
+                        "yeuxd8fuc6": {
+                            "value": "\u2013",
+                            "value_raw": null,
+                            "value_code": "\u2013"
+                        },
+                        "qcbpofvu9o": {
+                            "value": "\u2013",
+                            "value_raw": null,
+                            "value_code": "\u2013"
+                        },
+                        "rlrkyxzxpi": {
+                            "value": "\u2013",
+                            "value_raw": null,
+                            "value_code": "\u2013"
+                        },
+                        "t2hmtvf9wm": {
+                            "value": "\u2013",
+                            "value_raw": null,
+                            "value_code": "\u2013"
+                        },
+                        "0ennienmgu": {
+                            "value": "1",
+                            "value_raw": "1",
+                            "value_code": null
+                        },
+                        "anrci5vxwf": {
+                            "value": "1.885",
+                            "value_raw": "1.885",
+                            "value_code": null
+                        },
+                        "et3kcdxxuy": {
+                            "value": "\u2013",
+                            "value_raw": null,
+                            "value_code": "\u2013"
+                        },
+                        "vczbteoreb": {
+                            "value": "\u2013",
+                            "value_raw": null,
+                            "value_code": "\u2013"
+                        },
+                        "ybaeeknxpr": {
+                            "value": "\u2013",
+                            "value_raw": null,
+                            "value_code": "\u2013"
+                        }
+                    }
+                }
+            ],
+            "catatan": "&lt;p&gt;-&lt;\/p&gt;",
+            "sumber": "&lt;p&gt;Badan Nasional Penanggulangan Bencana&lt;\/p&gt;",
+            "versi": 1,
+            "table_created": "2024-02-22 10:30:56",
+            "status": 200,
+            "condition": "OK",
+            "message": "-",
+            "created": "2024-11-06 09:18:38"
+        }
+    ]
+}
